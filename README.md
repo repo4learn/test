@@ -1,2 +1,2 @@
 read me file
-Bug fixed.
+Bug fixed and verified.
